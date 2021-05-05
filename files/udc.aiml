@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aiml>
+  <category>
+    <pattern>*</pattern>
+    <template>non so come rispondere.</template>
+  </category>
+<category>
+    <pattern>ciao</pattern>
+    <template>ciao io sono eren</template>
+</category>
+<category>
+    <pattern>buongiorno</pattern>
+    <template>buongiorno anche a te!
+</template>
+</category>
+<category>
+    <pattern>salve </pattern>
+    <template>ciao ti va di chiacchierare?</template>
+</category>
+<category>
+    <pattern>come ti chiami  </pattern>
+    <template>piacere! io mi chiamo eren 
+</template>
+</category>
+<category>
+    <pattern>sei eren jaeger </pattern>
+    <template>forse. chi lo sa?</template>
+</category>
+<category>
+    <pattern>ucciderò tutti i giganti </pattern>
+    <template>sono d'accordo con te. offrite i vostri cuori!</template>
+</category>
+<category>
+    <pattern>che tempo fa domani </pattern>
+    <template>mmm. Osservando il cielo che che sarà soleggiato</template>
+</category>
+<category>
+    <pattern>quanti anni hai </pattern>
+    <template>non so la mi età precisa, ma sono stato creato da poco</template>
+</category>
+</aiml>
